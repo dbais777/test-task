@@ -1,0 +1,288 @@
+[
+    {
+        "_id": "62d550cd726ffd77473e7d4f",
+        "name": "Торсионный амортизатор на Still",
+        "description": {
+            "bazovaya_otrasl": "Химическая промышленность",
+            "primenimost": "Электротележка Still, Linde",
+            "technicheskiye_usloviya_expluat": "Выполняет функцию сайлентблока. Выполняет функцию амортизирующей пружины. Фактор замены - осадка по высоте, деформация от ударной нагрузки всего веса тележки.",
+            "repernaya_stoimost": 240,
+            "tsena_zakupki_detali": 80,
+            "summa_zakupki": 19200,
+            "sebestoimost_pechati": 81.94,
+            "itogovie_zatrati_po_sebestoimosty_pechati": 19664.59
+        },
+        "stage": "beta",
+        "print_info": {
+            "bazovy_material": "Sealant TPE",
+            "bazovaya_massa": 10,
+            "vremya_izgotovleniya": 4,
+            "dohod_20_diskont": 4304.59,
+            "vreamya_pechati_opornoe_kolichestvo": 960,
+            "udelny_dohod": 4.48
+        },
+        "categories": [
+            "Муфты",
+            "Демпферы",
+            "Колодки"
+        ],
+        "images": [],
+        "files": []
+    },
+    {
+        "_id": "62d550cd726ffd77473e7d50",
+        "name": "Крышка 0437980.06",
+        "description": {
+            "bazovaya_otrasl": "Изготовление измерительных приборов",
+            "primenimost": "Устанавливается в манометрах моделей 23Х.50.100/160",
+            "technicheskiye_usloviya_expluat": "Используется в манометрах  в задней стенке корпуса, для аварийного сброса давления.  В качестве меры защиты данные приборы имеют выдуваемую заднюю крышку в корпусу. В случае потенциальной неисправности аварийный выброс измеряемой среды и деталей будет происходить только с задней части корпуса.",
+            "repernaya_stoimost": 23500,
+            "tsena_zakupki_detali": 7,
+            "summa_zakupki": 164500,
+            "sebestoimost_pechati": 56,
+            "itogovie_zatrati_po_sebestoimosty_pechati": 1316000
+        },
+        "stage": "alfa",
+        "print_info": {
+            "bazovy_material": "Sealant TPU",
+            "bazovaya_massa": 4,
+            "vremya_izgotovleniya": 2,
+            "dohod_20_diskont": 131544,
+            "vreamya_pechati_opornoe_kolichestvo": 47000,
+            "udelny_dohod": 2.8
+        },
+        "categories": [],
+        "images": [
+            "https://disk.yandex.ru/i/z8-OmePcFOsvBw"
+        ],
+        "files": []
+    },
+    {
+        "_id": "62d550cd726ffd77473e7d51",
+        "name": "Наконечник ролика выхода из печи линий №5, 6 (01.863.00.004)",
+        "description": {
+            "bazovaya_otrasl": "Производство плитки и сантехники",
+            "primenimost": " Устройство разгрузки печей линий №5,6",
+            "technicheskiye_usloviya_expluat": "Передает крутящий момент от приводного зубчатого ремня ролику транспортирующему плитку при выгрузке ее из печи. Ремень крутит наконечник с закрепленным на нем роликом. Который в свою очередь придает плитке поступательное движение. Наибольшее усилие в зубчатом профиле и месте запрессовки в ролик.",
+            "repernaya_stoimost": 150,
+            "tsena_zakupki_detali": 100,
+            "summa_zakupki": 15000,
+            "sebestoimost_pechati": 539.62,
+            "itogovie_zatrati_po_sebestoimosty_pechati": 80943
+        },
+        "stage": "alfa",
+        "print_info": {
+            "bazovy_material": "Fiberpart TPU C5",
+            "bazovaya_massa": 74,
+            "vremya_izgotovleniya": 13,
+            "dohod_20_diskont": 11460.38,
+            "vreamya_pechati_opornoe_kolichestvo": 1950,
+            "udelny_dohod": 5.88
+        },
+        "categories": [],
+        "images": [
+            "https://disk.yandex.ru/i/26HgOF3x_uEONA"
+        ],
+        "files": []
+    },
+    {
+        "_id": "62d550cd726ffd77473e7d52",
+        "name": "Петтине",
+        "description": {
+            "bazovaya_otrasl": "Производство сендвич панелей",
+            "primenimost": "производитель Saip Srl (Италия)",
+            "technicheskiye_usloviya_expluat": "Температура эксплуатации +10 - +40.  Предназначена для нанесения клеевой смеси (праймера) на нижний и верхний лист металла, с последующим склеиванием с прослойкой  утеплителя из базальтовой ваты. Насос подает клей в гребенку при давлении 6-12 бар. Через отверстия диаметром 2 мм наноситься на поверхность.",
+            "repernaya_stoimost": 2160,
+            "tsena_zakupki_detali": 86,
+            "summa_zakupki": 185760,
+            "sebestoimost_pechati": 241,
+            "itogovie_zatrati_po_sebestoimosty_pechati": 520560
+        },
+        "stage": "alfa",
+        "print_info": {
+            "bazovy_material": "Proto PLA",
+            "bazovaya_massa": 37,
+            "vremya_izgotovleniya": 9,
+            "dohod_20_diskont": 148367,
+            "vreamya_pechati_opornoe_kolichestvo": 19440,
+            "udelny_dohod": 7.63
+        },
+        "categories": [],
+        "images": [
+            "https://disk.yandex.ru/i/GuQsyP3Wu0mbuA"
+        ],
+        "files": []
+    },
+    {
+        "_id": "62d550cd726ffd77473e7d53",
+        "name": "Уплотнительная манжета 00935",
+        "description": {
+            "bazovaya_otrasl": "Химическая промышленность",
+            "primenimost": "Линия розлива 4.2",
+            "technicheskiye_usloviya_expluat": " Выполняет функцию герметизации цилинда, всасывания и выдачу дозы продукта. Есть химическое воздействие перекиси водорода/ гипохлорида натрия/щелочи/кислоты соляной) , трения и температура до 60С, материал оригинала - УПДМ/ВИТОН/ПТФЕ.",
+            "repernaya_stoimost": 36,
+            "tsena_zakupki_detali": 300,
+            "summa_zakupki": 10800,
+            "sebestoimost_pechati": 150.05,
+            "itogovie_zatrati_po_sebestoimosty_pechati": 5401.96
+        },
+        "stage": "alfa",
+        "print_info": {
+            "bazovy_material": "Sealant TPV",
+            "bazovaya_massa": 20,
+            "vremya_izgotovleniya": 7,
+            "dohod_20_diskont": 3238.04,
+            "vreamya_pechati_opornoe_kolichestvo": 252,
+            "udelny_dohod": 12.85
+        },
+        "categories": [
+            "Уплотнения",
+            "Поршня"
+        ],
+        "images": [],
+        "files": []
+    },
+    {
+        "_id": "62d550cd726ffd77473e7d54",
+        "name": "Крыльчатка охлаждения электродвигателя",
+        "description": {
+            "bazovaya_otrasl": "Транспортировка и хранение нефтепродуктов",
+            "primenimost": "Для охлаждения асинхронных моторов центробежных насосов и насосных станций",
+            "technicheskiye_usloviya_expluat": "Вращаясь направляет поток воздуха на электродвигатель для охлаждения. Наибольшие усилия в месте посадки на вал и ко краям крыльчатки на больших оборотах. Нагрузка постоянная. Замена по причине растрескивания.",
+            "repernaya_stoimost": 50,
+            "tsena_zakupki_detali": 150,
+            "summa_zakupki": 7500,
+            "sebestoimost_pechati": 324,
+            "itogovie_zatrati_po_sebestoimosty_pechati": 16200
+        },
+        "stage": "alfa",
+        "print_info": {
+            "bazovy_material": "Enduse PP",
+            "bazovaya_massa": 30,
+            "vremya_izgotovleniya": 8,
+            "dohod_20_diskont": 5676,
+            "vreamya_pechati_opornoe_kolichestvo": 400,
+            "udelny_dohod": 14.19
+        },
+        "categories": [],
+        "images": [
+            "https://disk.yandex.ru/i/qr_n3pBijjXU5Q"
+        ],
+        "files": []
+    },
+    {
+        "_id": "62d550cd726ffd77473e7d55",
+        "name": "Ролик укупорочного станка",
+        "description": {
+            "bazovaya_otrasl": "Химическая промышленность",
+            "primenimost": "Линии розлива, Триблоки (Polaris, АДНК 39 ЛР 3) Линия розлива АДНЛ-39ЛР",
+            "technicheskiye_usloviya_expluat": "Выполняет функцию вращения колпачка триггера на закручивание. Количество используемых роликов на одном укупорщике - 4 шт. Есть воздействие давления на материал 4-8 кг/см2, крутящий момент. Фактор замены - износ (истерание) по внутреннему и наружнему диаметру.",
+            "repernaya_stoimost": 871,
+            "tsena_zakupki_detali": 162,
+            "summa_zakupki": 141102,
+            "sebestoimost_pechati": 65.45,
+            "itogovie_zatrati_po_sebestoimosty_pechati": 57008.56
+        },
+        "stage": "beta",
+        "print_info": {
+            "bazovy_material": "TPU Flex",
+            "bazovaya_massa": 9,
+            "vremya_izgotovleniya": 3,
+            "dohod_20_diskont": 55873.04,
+            "vreamya_pechati_opornoe_kolichestvo": 2613,
+            "udelny_dohod": 21.38
+        },
+        "categories": [
+            "Муфты",
+            "Демпферы",
+            "Колодки"
+        ],
+        "images": [],
+        "files": []
+    },
+    {
+        "_id": "62d550cd726ffd77473e7d56",
+        "name": "Уплотнительная манжета 01451",
+        "description": {
+            "bazovaya_otrasl": "Химическая промышленность",
+            "primenimost": "Линия розлив №8,6,Уд",
+            "technicheskiye_usloviya_expluat": " Выполняет функцию герметизации цилинда, всасывания и выдачу дозы продукта. Есть химическое воздействие перекиси водорода/ гипохлорида натрия/щелочи/кислоты соляной) , трения и температура до 60С, материал оригинала - УПДМ/ВИТОН/ПТФЕ.",
+            "repernaya_stoimost": 236,
+            "tsena_zakupki_detali": 382.5,
+            "summa_zakupki": 90270,
+            "sebestoimost_pechati": 150.05,
+            "itogovie_zatrati_po_sebestoimosty_pechati": 35412.82
+        },
+        "stage": "alfa",
+        "print_info": {
+            "bazovy_material": "Sealant TPV",
+            "bazovaya_massa": 20,
+            "vremya_izgotovleniya": 7,
+            "dohod_20_diskont": 36803.18,
+            "vreamya_pechati_opornoe_kolichestvo": 1652,
+            "udelny_dohod": 22.28
+        },
+        "categories": [
+            "Уплотнения",
+            "Поршня"
+        ],
+        "images": [],
+        "files": []
+    },
+    {
+        "_id": "62d550cd726ffd77473e7d57",
+        "name": "Подвеска (краб) линий сортировки и охлаждения Meyn OC.10.009  Подвески линии охлаждения 2 ноги тип 2  0990.H046.007.00",
+        "description": {
+            "bazovaya_otrasl": "Производство мяса птицы и полуфабрикатов",
+            "primenimost": "Подвесной конвейер линий сортировки и охлаждения Meyn",
+            "technicheskiye_usloviya_expluat": "Навешивается тушка птицы за обе голени у заплюсневого суставаместе и траспортируется по подвесному конвейеру. Подвеска закреплена пластиковым штифтом за проушину в верхней части. Основные усилия приходятся на проушину и кончики проризей для навешивания тушки, при перевешивании - обламываются.Нагрузки - переменные, возникают незначительные трения в средней части и кончики подвески о металические направляюшие.Факторы замены - обламываются кончики подвески, происходит стирание пластика в верхней части вокрук отверстия под штифт, в следствии трения о пластиковую каретку.",
+            "repernaya_stoimost": 100,
+            "tsena_zakupki_detali": 530,
+            "summa_zakupki": 53000,
+            "sebestoimost_pechati": 584,
+            "itogovie_zatrati_po_sebestoimosty_pechati": 58400
+        },
+        "stage": "alfa",
+        "print_info": {
+            "bazovy_material": "Enduse PETG",
+            "bazovaya_massa": 130,
+            "vremya_izgotovleniya": 14,
+            "dohod_20_diskont": 41816,
+            "vreamya_pechati_opornoe_kolichestvo": 1400,
+            "udelny_dohod": 29.87
+        },
+        "categories": [],
+        "images": [
+            "https://disk.yandex.ru/i/rsSvTQ_7Ha4EHg"
+        ],
+        "files": []
+    },
+    {
+        "_id": "62d550cd726ffd77473e7d58",
+        "name": "Корпус ВГ102.20П.00.011",
+        "description": {
+            "bazovaya_otrasl": "Насосы и насосное оборудование",
+            "primenimost": "Устанавливается снаружи.",
+            "technicheskiye_usloviya_expluat": "Функциональное. Является основной корпусной деталью приводной части дозировочного насосного агрегата. В корпус устанавливаются детали приводной части дозировочного насосного агрегата. Корпус заполняется маслом типа И-20А или ТСП. Корпус воспринимает растягивающую нагрузку в районе фланца в 250кгс, а также растягивающую нагрузку в районе коренных подшипниковых опор в 125кгс. Нагрузки - циклические. Произвести ОПИ для дальнейшей замены технологии изготовления оригинальной детали. Необходима чистовая обработка после литья, что ведёт к удорожанию детали.",
+            "repernaya_stoimost": 60,
+            "tsena_zakupki_detali": 2997,
+            "summa_zakupki": 179820,
+            "sebestoimost_pechati": 4015.33,
+            "itogovie_zatrati_po_sebestoimosty_pechati": 240919.8
+        },
+        "stage": "alfa",
+        "print_info": {
+            "bazovy_material": "Fiberpart TPU C5",
+            "bazovaya_massa": 641,
+            "vremya_izgotovleniya": 76,
+            "dohod_20_diskont": 139840.67,
+            "vreamya_pechati_opornoe_kolichestvo": 4560,
+            "udelny_dohod": 30.67
+        },
+        "categories": [],
+        "images": [
+            "https://disk.yandex.ru/i/N2rPQ23GtouAYA"
+        ],
+        "files": []
+    }
+]
